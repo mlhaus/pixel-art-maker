@@ -1,7 +1,7 @@
 # Pixel Art Maker Project
 This is my final project for Udacity's Grow with Google Challenge
 
-##Concepts I have mastered during this course include: 
+## Concepts I have mastered during this course include: 
 1. HTML/CSS 
   * Syntax
   * Naming and selecting Classes and IDs
@@ -22,7 +22,7 @@ This is my final project for Udacity's Grow with Google Challenge
   * Commits with messages
   * Pushing
 
-##Concepts I still need practice on include:
+## Concepts I still need practice on include:
 1. Using keyboard shortcuts to write code faster
 2. JavaScript
   * Objects
