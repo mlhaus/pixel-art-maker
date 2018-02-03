@@ -29,11 +29,11 @@ $(function(){
     });
 
     // Select color input
-    var colorPicker = $("#colorPicker"); 
-    var td = pixelTable.find("td");
+    let colorPicker = $("#colorPicker"); 
+    let td = pixelTable.find("td");
     $("#pixelCanvas").on("click", "td", function(event){
         //console.log(event);
-        var backgroundColor = colorPicker.val();
+        let backgroundColor = colorPicker.val();
         $(this).css("background-color", backgroundColor);
     });
     
